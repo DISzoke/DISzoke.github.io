@@ -617,6 +617,18 @@ var APP_DATA = {
           "pitch": 0.2132682881699388,
           "rotation": 0,
           "target": "9-ground-floor-living-area-deck-side"
+        },
+        {
+          "yaw": -1.9500171827898427,
+          "pitch": 0.0824107224579258,
+          "rotation": 0,
+          "target": "30-entrance-outside"
+        },
+        {
+          "yaw": -0.14369224475503373,
+          "pitch": 0.10969439954178384,
+          "rotation": 0,
+          "target": "12-ground-floor-scullery"
         }
       ],
       "infoHotspots": []
@@ -1460,6 +1472,12 @@ var APP_DATA = {
           "pitch": 0.6400976040717161,
           "rotation": 0,
           "target": "34-bed-1-bath"
+        },
+        {
+          "yaw": -0.9404635480706105,
+          "pitch": 0.5721018145804138,
+          "rotation": 0,
+          "target": "1-upstairs-lounge---bed-1-1"
         }
       ],
       "infoHotspots": []
